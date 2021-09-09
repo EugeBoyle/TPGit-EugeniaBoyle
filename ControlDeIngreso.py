@@ -13,8 +13,12 @@ while menuPrincipal == 1:
         
 
         menuPrincipal = int(input("Presione una opción\n 1_ Ingresar nuevo \n 2_ Listar\n Opción: "))   
-    
+
+
+for i in list:
+    print(i)
         
+input()  
 
         
         
